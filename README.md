@@ -2,7 +2,7 @@
 
 • Designed a responsive Front-end application using React and Codemirror(react17). <br>
 • Used a hook called useLocalStrorage(SrcDoc) to connect a data from Codemirror to terminal <br>
-• Created a custom-designed front-end in HTML, CSS, React and used Fortawesome(React/Fontawesome-icons) with external lib called Codemirror(React17) to propagate clean and Minimal UI. <br>
+• Created a custom-designed front-end in HTML, CSS, React and used Fortawesome(React/Fontawesome-icons) with external library called Codemirror(React17) to propagate clean and Minimal UI. <br>
 • Configured and implemented some auto-saving effects in Codemirror by using a hook called useLocalStrorage
 
 I attempt to clone codepen using react and Codemirror(React17-lib).

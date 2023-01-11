@@ -53,18 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
 ## Output Image ![{D50CD38B-B8B7-4750-84C3-5B3BE5221699}](https://user-images.githubusercontent.com/89378073/211741654-6496cadb-8823-4a53-9d85-be0dc89cf1e8.png)
 

@@ -24,7 +24,6 @@ I attempt to clone codepen using react and Codemirror(React17-lib).
 ## Built with
 
 - [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
 - [CodeMirror](https://codemirror.net/)
 - [Fortawesome](https://fortawesome.com/)
 
